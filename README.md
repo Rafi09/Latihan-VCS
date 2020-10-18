@@ -168,4 +168,4 @@ Kalo ingin merge ke master juga sama saja caranya dengan yang tadi. Dengan perta
 Yang terakhir yaitu perintah untuk membuat clone dari projek yang telah dibuat:
 git clone <https://github.com/repo-name/proj-name.git> #http yang ada di github sesuai dengan program yang di remote
 
-# rafi ubaidillah
+# Rafi Ubaidillah
